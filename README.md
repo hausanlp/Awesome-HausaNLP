@@ -1,12 +1,14 @@
-# Awesome Persian NLP/IR, Tools And Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-This repository is going to be a curation of every research and efforts on Persian NLP. We segmented this repo into five main sections, as listed below!
+# Awesome Hausa NLP, Tools And Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+This repository will be a curated collection of all Hausa NLP research and efforts. We divided this repo into five major components, which are described below!
 
 ### Contents
-- [Tools](sections/tools.md)
+- [Papers](sections/papers.md)
 - [Datasets](sections/datasets.md)
 - [Models](sections/models.md)
 - [Repositories](sections/repos.md)
-- [Papers](sections/papers.md)
+- [Tools](sections/tools.md)
+
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
