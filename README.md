@@ -7,7 +7,6 @@ This repository will be a curated collection of all Hausa NLP research and effor
 - [Datasets](sections/datasets.md)
 - [Models](sections/models.md)
 - [Repositories](sections/repos.md)
-- [Tools](sections/tools.md)
 
 
 ## Contribute
