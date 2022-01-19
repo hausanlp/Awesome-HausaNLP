@@ -1,4 +1,4 @@
-# Awesome Hausa NLP, Tools And Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Hausa NLP, Dataset, Paperss And Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This repository will be a curated collection of all Hausa NLP research and efforts. We divided this repo into five major components, which are described below!
 
