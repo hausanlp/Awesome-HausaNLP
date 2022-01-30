@@ -1,6 +1,11 @@
 # Models
 
+
 - [Models](#models)
+  - [Sentiment Analysis](https://huggingface.co/Davlan/naija-twitter-sentiment-afriberta-large)
+
+
+<!--
   - [Named Entity Recognition](#named-entity-recognition)
   - [Text Classification](#text-classification)
   - [Sentiment Analysis](#sentiment-analysis)
@@ -33,3 +38,4 @@
 ## Embeddings
 
 ## Language Model
+-->
