@@ -1,4 +1,4 @@
-# Persian Language Processing Datasets
+# Hausa Language Processing Datasets
 
 <!--
 
