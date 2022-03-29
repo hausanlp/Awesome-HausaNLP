@@ -5,7 +5,7 @@
 2. [Tagging Part of Speech in Hausa Sentences](https://ieeexplore.ieee.org/abstract/document/9043198)
 3. [An Enhanced Feature Acquisition for Sentiment Analysis of English and Hausa Tweets](https://thesai.org/Publications/ViewPaper?Volume=12&Issue=9&Code=IJACSA&SerialNo=13)
 4. [A Corpus Based Transformation-Based Learning for Hausa Text Parts of Speech Tagging](http://dx.doi.org/10.12785/ijcds/100146)
-5. [Hausa WordNet: An Electronic Lexical Resource](http://dx.doi.org/10.21276/sjeat.2019.4.8.2)
+5. [Hausa WordNet: An Electronic Lexical Resource](https://www.semanticscholar.org/paper/Hausa-WordNet%3A-An-Electronic-Lexical-Resource-Abubakar-Roko/69d41a18dba0f795e7ba9378745ad3106714a588)
 
 
 
