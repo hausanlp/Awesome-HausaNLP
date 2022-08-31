@@ -3,6 +3,7 @@
 
 1. [Hausa Sentimemt Analysis Dataset](https://github.com/hausanlp/NaijaSenti) 
 2. [Hausa Visual Genome Dataset](https://github.com/hausanlp/HausaVisualGenome)
+3. [Hausa Corpus by Isa Dutse](https://github.com/ijdutse/hausa-corpus)
 <!--
 
 ## Table Of Contents
